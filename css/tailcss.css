@@ -1,0 +1,9 @@
+body {
+    background-color: #101825;
+}
+
+.answer {
+    color: red;
+    text-align: center;
+    font-size: 18px;
+}
