@@ -1,7 +1,7 @@
 # anagram_tailcss
 Anagramm game 
 
-Пример рабочей версии представленного здесь кода https://anagramm.netlify.app
+Пример рабочей версии представленного здесь кода https://anagramm1.netlify.app
 
 Смысл игры - собрать слова из существующего.
 
